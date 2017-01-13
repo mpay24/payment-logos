@@ -23,7 +23,7 @@ A set logos for each payment system
 ![Color Logo](logos/color/jcb.png)
 ![Dark Logo](logos/dark/jcb-dark.png)
 
-## Online Banking and others
+## Online Banking and more
 
 ### EPS
 ![Color Logo](logos/color/eps.png)
@@ -49,6 +49,19 @@ A set logos for each payment system
 ![Color Logo](logos/color/paybox.png)
 ![Dark Logo](logos/dark/paybox-dark.png)
 
+## Direct debit and Invoice
+
+### SEPA
+![Color Logo](logos/color/sepa.png)
+![Dark Logo](logos/dark/sepa-dark.png)
+
+### Klarna
+![Color Logo](logos/color/klarna.png)
+![Dark Logo](logos/dark/klarna-dark.png)
+
+### Billpay
+![Color Logo](logos/color/billpay.png)
+![Dark Logo](logos/dark/billpay-dark.png)
 
 ## Disclaimer
 
