@@ -1,5 +1,5 @@
-# payment-logos
-A set logos for each payment system
+# Payment System Logos
+A collection of logos for payment systems
 
 ## Creditcards
 
