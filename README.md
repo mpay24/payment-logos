@@ -4,64 +4,64 @@ A collection of logos for payment systems
 ## Creditcards
 
 ### Visa
-![Color Logo](logos/color/visa.png)
-![Dark Logo](logos/dark/visa-dark.png)
+<img src="logos@2x/color/visa@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/visa-dark@2x.png" width="110px" height="64px">
 
 ### Mastercard
-![Color Logo](logos/color/mastercard.png)
-![Dark Logo](logos/dark/mastercard-dark.png)
+<img src="logos@2x/color/mastercard@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/mastercard-dark@2x.png" width="110px" height="64px">
 
 ### AMEX
-![Color Logo](logos/color/amex.png)
-![Dark Logo](logos/dark/amex-dark.png)
+<img src="logos@2x/color/amex@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/amex-dark@2x.png" width="110px" height="64px">
 
 ### DINERS
-![Color Logo](logos/color/diners.png)
-![Dark Logo](logos/dark/diners-dark.png)
+<img src="logos@2x/color/diners@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/diners-dark@2x.png" width="110px" height="64px">
 
 ### JCB
-![Color Logo](logos/color/jcb.png)
-![Dark Logo](logos/dark/jcb-dark.png)
+<img src="logos@2x/color/jcb@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/jcb-dark@2x.png" width="110px" height="64px">
 
 ## Online Banking and more
 
 ### EPS
-![Color Logo](logos/color/eps.png)
-![Dark Logo](logos/dark/eps-dark.png)
+<img src="logos@2x/color/eps@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/eps-dark@2x.png" width="110px" height="64px">
 
 ### Giropay
-![Color Logo](logos/color/giropay.png)
-![Dark Logo](logos/dark/giropay-dark.png)
+<img src="logos@2x/color/giropay@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/giropay-dark@2x.png" width="110px" height="64px">
 
 ### Sofortüberweisung
-![Color Logo](logos/color/sofort.png)
-![Dark Logo](logos/dark/sofort-dark.png)
+<img src="logos@2x/color/sofort@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/sofort-dark@2x.png" width="110px" height="64px">
 
 ### Maestro
-![Color Logo](logos/color/maestro.png)
-![Dark Logo](logos/dark/maestro-dark.png)
+<img src="logos@2x/color/maestro@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/maestro-dark@2x.png" width="110px" height="64px">
 
 ### Paypal
-![Color Logo](logos/color/paypal.png)
-![Dark Logo](logos/dark/paypal-dark.png)
+<img src="logos@2x/color/paypal@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/paypal-dark@2x.png" width="110px" height="64px">
 
 ### Paybox
-![Color Logo](logos/color/paybox.png)
-![Dark Logo](logos/dark/paybox-dark.png)
+<img src="logos@2x/color/paybox@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/paybox-dark@2x.png" width="110px" height="64px">
 
-## Direct debit and Invoice
+## Direct Debit Hire Purchase and Invoice
 
 ### SEPA
-![Color Logo](logos/color/sepa.png)
-![Dark Logo](logos/dark/sepa-dark.png)
+<img src="logos@2x/color/sepa@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/sepa-dark@2x.png" width="110px" height="64px">
 
 ### Klarna
-![Color Logo](logos/color/klarna.png)
-![Dark Logo](logos/dark/klarna-dark.png)
+<img src="logos@2x/color/klarna@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/klarna-dark@2x.png" width="110px" height="64px">
 
 ### Billpay
-![Color Logo](logos/color/billpay.png)
-![Dark Logo](logos/dark/billpay-dark.png)
+<img src="logos@2x/color/billpay@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/billpay-dark@2x.png" width="110px" height="64px">
 
 ## Disclaimer
 
