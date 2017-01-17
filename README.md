@@ -1,5 +1,6 @@
 # Payment System Logos
 A collection of logos for payment systems
+Every logo is available in png and svg, colored and gray
 
 ## Creditcards
 
