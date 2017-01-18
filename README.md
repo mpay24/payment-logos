@@ -46,6 +46,10 @@ Every logo is available in png and svg, colored and gray
 <img src="logos@2x/color/paypal@2x.png" width="110px" height="64px">
 <img src="logos@2x/dark/paypal-dark@2x.png" width="110px" height="64px">
 
+### Paysafecard
+<img src="logos@2x/color/paysafecard@2x.png" width="110px" height="64px">
+<img src="logos@2x/dark/paysafecard-dark@2x.png" width="110px" height="64px">
+
 ### Paybox
 <img src="logos@2x/color/paybox@2x.png" width="110px" height="64px">
 <img src="logos@2x/dark/paybox-dark@2x.png" width="110px" height="64px">
