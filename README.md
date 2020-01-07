@@ -7,6 +7,9 @@ Every logo is available in png and svg, colored and gray
 ### VISA
 <img src="logos@2x/color/visa@2x.png" width="110px" height="64px"><img src="logos@2x/dark/visa-dark@2x.png" width="110px" height="64px">
 
+### VISA Secure
+<img src="logos@2x/color/visa-secure@2x.png" width="110px" height="64px"><img src="logos@2x/dark/visa-secure-dark@2x.png" width="110px" height="64px">
+
 ### Mastercard
 <img src="logos@2x/color/mastercard@2x.png" width="110px" height="64px"><img src="logos@2x/dark/mastercard-dark@2x.png" width="110px" height="64px">
 
