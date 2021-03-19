@@ -33,9 +33,6 @@ Every logo is available in png and svg, colored and gray
 ### Giropay
 <img src="logos@2x/color/giropay@2x.png" width="110px" height="64px"><img src="logos@2x/dark/giropay-dark@2x.png" width="110px" height="64px">
 
-### Sofortüberweisung
-<img src="logos@2x/color/sofort@2x.png" width="110px" height="64px"><img src="logos@2x/dark/sofort-dark@2x.png" width="110px" height="64px">
-
 ### Maestro
 <img src="logos@2x/color/maestro@2x.png" width="110px" height="64px"><img src="logos@2x/dark/maestro-dark@2x.png" width="110px" height="64px">
 
@@ -45,19 +42,10 @@ Every logo is available in png and svg, colored and gray
 ### Paysafecard
 <img src="logos@2x/color/paysafecard@2x.png" width="110px" height="64px"><img src="logos@2x/dark/paysafecard-dark@2x.png" width="110px" height="64px">
 
-### Paybox
-<img src="logos@2x/color/paybox@2x.png" width="110px" height="64px"><img src="logos@2x/dark/paybox-dark@2x.png" width="110px" height="64px">
-
 ## Direct Debit Hire Purchase and Invoice
 
 ### SEPA
 <img src="logos@2x/color/sepa@2x.png" width="110px" height="64px"><img src="logos@2x/dark/sepa-dark@2x.png" width="110px" height="64px">
-
-### Klarna Invoice
-<img src="logos@2x/color/klarna-invoice@2x.png" width="110px" height="64px"><img src="logos@2x/dark/klarna-invoice-dark@2x.png" width="110px" height="64px">
-
-### Klarna Installment
-<img src="logos@2x/color/klarna-installment@2x.png" width="110px" height="64px"><img src="logos@2x/dark/klarna-installment-dark@2x.png" width="110px" height="64px">
 
 ### Billpay
 <img src="logos@2x/color/billpay@2x.png" width="110px" height="64px"><img src="logos@2x/dark/billpay-dark@2x.png" width="110px" height="64px">
