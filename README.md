@@ -25,6 +25,22 @@ Every logo is available in png and svg, colored and gray
 ### JCB
 <img src="logos@2x/color/jcb@2x.png" width="110px" height="64px"><img src="logos@2x/dark/jcb-dark@2x.png" width="110px" height="64px">
 
+## Wallets
+
+### AliPay
+<img src="logos@2x/color/alipay@2x.png" width="110px" height="64px"><img src="logos@2x/dark/alipay-dark@2x.png" width="110px" height="64px">
+
+### WeChat Pay
+<img src="logos@2x/color/wechat_pay@2x.png" width="110px" height="64px"><img src="logos@2x/dark/wechat_pay-dark@2x.png" width="110px" height="64px">
+
+## Direct transfer
+
+### Unzer Bank Transfer
+<img src="logos@2x/color/unzer_bank_transfer@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_bank_transfer-dark@2x.png" width="110px" height="64px">
+
+### iDeal
+<img src="logos@2x/color/ideal@2x.png" width="110px" height="64px"><img src="logos@2x/dark/ideal-dark@2x.png" width="110px" height="64px">
+
 ## Online Banking and more
 
 ### EPS
@@ -41,6 +57,20 @@ Every logo is available in png and svg, colored and gray
 
 ### Paysafecard
 <img src="logos@2x/color/paysafecard@2x.png" width="110px" height="64px"><img src="logos@2x/dark/paysafecard-dark@2x.png" width="110px" height="64px">
+
+## Unzer Payments
+
+### Unzer Bank Transfer
+<img src="logos@2x/color/unzer_bank_transfer@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_bank_transfer-dark@2x.png" width="110px" height="64px">
+
+### Unzer Invoice
+<img src="logos@2x/color/unzer_invoice@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_invoice-dark@2x.png" width="110px" height="64px">
+
+### Unzer Instalment
+<img src="logos@2x/color/unzer_instalment@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_instalment-dark@2x.png" width="110px" height="64px">
+
+### Unzer Direct Debit
+<img src="logos@2x/color/unzer_directdebit@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_directdebit-dark@2x.png" width="110px" height="64px">
 
 ## Direct Debit Hire Purchase and Invoice
 
