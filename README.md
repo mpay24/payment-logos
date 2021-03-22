@@ -55,6 +55,9 @@ Every logo is available in png and svg, colored and gray
 ### Paypal
 <img src="logos@2x/color/paypal@2x.png" width="110px" height="64px"><img src="logos@2x/dark/paypal-dark@2x.png" width="110px" height="64px">
 
+### Klarna
+<img src="logos@2x/color/klarna@2x.png" width="110px" height="64px"><img src="logos@2x/dark/klarna-dark@2x.png" width="110px" height="64px">
+
 ### Paysafecard
 <img src="logos@2x/color/paysafecard@2x.png" width="110px" height="64px"><img src="logos@2x/dark/paysafecard-dark@2x.png" width="110px" height="64px">
 
