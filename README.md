@@ -39,7 +39,7 @@ Every logo is available in png and svg, colored and gray
 <img src="logos@2x/color/unzer_bank_transfer@2x.png" width="110px" height="64px"><img src="logos@2x/dark/unzer_bank_transfer-dark@2x.png" width="110px" height="64px">
 
 ### iDeal
-<img src="logos@2x/color/ideal@2x.png" width="110px" height="97px"><img src="logos@2x/dark/ideal-dark@2x.png" width="110px" height="97px">
+<img src="logos@2x/color/ideal@2x.png" width="110px" height="64px"><img src="logos@2x/dark/ideal-dark@2x.png" width="110px" height="64px">
 
 ## Online Banking and more
 
